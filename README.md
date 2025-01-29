@@ -1,30 +1,28 @@
 # Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares-Codebasics
 
-## Project Description:
-This project focused on sales and financial analytics for AtliQ Hardwares, a global technology company known for its wide range of electronic products. The Objective is to provide shareholders with a clear, data-driven perspective on our financial performance and market trends, aiding strategic decision-making.
+## Project objective - 
 
-## Sales Analytics:
-The analysis on sales data helps the client to monitor and evaluate their Sales Performance. It helps in identifying Key Performnace Indicators(KPI) improve tactics and bolster overall sales efficiency.
+AtliQ Hardware, a top hardware company specializing in PCs, Printers, Mouse, and Computers worldwide, needs to boost sales and improve net gross margins and Profits.
 
-## Project Objective:
-1.Create a <a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf" target="_blank">Customer Performance Report</a>
+Now Sales director doesn't just want the reports or Excel files from different regional managers because there are a lot of Excel files and from these reports, potential insights will not come out, so in that case a Data Analyst plays a vital role.
 
-2.Conduct a comprehensive comparison between <a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance- 
-Analytics/blob/main/Market%20performance%20vs%20Sales%20Target.pdf" target="_blank">Market Performance and Sales Target</a>
+### My Goal as a Data Analyst- 
 
-3. The product reports are created to have insights about the top selling product based on Net sales with the details of Cost of Goods and Services and top 5 country where sales are outstanding:
+This project tackles analyzing a huge dataset with over half a million unorganized sales records, requiring a lot of effort to organize (ETL). The goal is to find important insights to help AtliQ hardware make smart decisions and track key performance indicators (KPIs). The main aim is to make big improvements in how well the company does, especially in net sales and net gross margin.
 
-   A) Based on Quantity , product analysis:  <a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/Top%205%20Products%20on%20Quantity.pdf" 
-   target="_blank">Top and Bottom 5 product based on Quantity</a>
-   
-   B) Based on Netsales, top rated countries: <a href="https://github.com/nihilrengasamy/Excel-Sales-and-FinanceAnalytics/blob/main/Top%205%20Products%20on%20Quantity.pdf" 
-   target="_blank">Top 5 Country</a>
+### Task Performed and Insights - 
 
-   C) Based on Net sales, with COGS details, top selling products: <a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/Top%205%20products%20on%20Net%20sales.pdf" target="_blank">Top 5 Product Based on Net Sales with COGS</a>
+* Project 1: Sales Analysis
 
-## Finance Analytics:
-The Analysis on Finance Data in the form of Profit and Loss(P&L) statement helps the Company to maintain and leverage the financials for investments, and make strategic decision to increase the revenue.
+Made a detailed report on **customer performance**. Compared to how well they are doing throughout the years, also are they able to achieve the target or not?
+This helps Atliq to keep an eye on their customer sales also how much discounts they should give to the customers.
+Also made a **market performance vs target report** which helps to understand in which country or market AtliQ doing business well and in which country they don't.
 
-1. Created Profit and Loss statement for Fiscal years 2019, 2020 and 2021 for the company:<a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Year.pdf" target="_blank"> P & L by Year</a>
-2. Created Profit and Loss statement based on 12 months of a year each divided in to four Quarters Q1, Q2, Q3, Q4 company:<a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Year.pdf" target="_blank"> P & L by Month</a>
-3. Created a report on Gross Margin perctegae for each four quarter of the respective years 2019,2020 and 2021:<a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/GM%20%25%20by%20Quarters.pdf" target="_blank"> GM % by Quarters</a>
+* Project 2: Financial Analysis
+
+Made detailed Profit and Loss (P&L) reports by Year, Month, and Quarter level.  Also made P&L reports for different markets.
+This helps AtliQ understand how they are doing financially, aiding in making smart choices. Clear and helpful reports were created for communicating with stakeholders. It assisted in comparing AtliQ to other companies and in setting up a plan for budgeting and future spending.
+
+* Also made a report to analyze Gross Margin percentage (GM%) by Quarters (sub_zone).
+
+* Finally made a detailed report to evaluate different things such as the Top 10 Products that are doing very well, Division Level Report, Top and Bottom 5 Products, and Top 5 countries.
