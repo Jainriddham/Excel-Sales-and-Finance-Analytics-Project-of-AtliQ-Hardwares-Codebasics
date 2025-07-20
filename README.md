@@ -1,28 +1,102 @@
 # Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares-Codebasics
 
-## Project objective - 
+# Excel-Sales-Analytics
 
-AtliQ Hardware, a top hardware company specializing in PCs, Printers, Mouse, and Computers worldwide, needs to boost sales and improve net gross margins and Profits.
+## Sales Report :
 
-Now Sales director doesn't just want the reports or Excel files from different regional managers because there are a lot of Excel files and from these reports, potential insights will not come out, so in that case a Data Analyst plays a vital role.
 
-### My Goal as a Data Analyst- 
+- **Project objective:** 
 
-This project tackles analyzing a huge dataset with over half a million unorganized sales records, requiring a lot of effort to organize (ETL). The goal is to find important insights to help AtliQ hardware make smart decisions and track key performance indicators (KPIs). The main aim is to make big improvements in how well the company does, especially in net sales and net gross margin.
+    **1.** Create a customer performance report.
 
-### Task Performed and Insights - 
 
-* Project 1: Sales Analysis
+    **2.** Conduct a comprehensive comparison between market performance and sales targets.
 
-Made a detailed report on **customer performance**. Compared to how well they are doing throughout the years, also are they able to achieve the target or not?
-This helps Atliq to keep an eye on their customer sales also how much discounts they should give to the customers.
-Also made a **market performance vs target report** which helps to understand in which country or market AtliQ doing business well and in which country they don't.
 
-* Project 2: Financial Analysis
+    **3.** Create a top 10 products report.
 
-Made detailed Profit and Loss (P&L) reports by Year, Month, and Quarter level.  Also made P&L reports for different markets.
-This helps AtliQ understand how they are doing financially, aiding in making smart choices. Clear and helpful reports were created for communicating with stakeholders. It assisted in comparing AtliQ to other companies and in setting up a plan for budgeting and future spending.
+    **4.** Generate a Division report. 
 
-* Also made a report to analyze Gross Margin percentage (GM%) by Quarters (sub_zone).
+  
+    **5.** Create a Top & bottom 5 products report.
 
-* Finally made a detailed report to evaluate different things such as the Top 10 Products that are doing very well, Division Level Report, Top and Bottom 5 Products, and Top 5 countries.
+    **6.** Create a New Products 2021 report.
+
+
+    **7.** Create a Top 5 countries report.
+
+
+   
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+
+## Finance Report :
+
+- **Project objective:** 
+
+    **1.** Create Profit and Loss (P&L) reports by Fiscal Year & Months.
+
+
+   **2.** Create Profit and Loss (P&L) report by Markets.
+
+
+   **3.** Create Profit and Loss (P&L) report by FY & Market breakdown.
+
+
+   **4.** Create GM% by quarters report(Sub zone).
+
+
+
+- **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of these reports:** Aid in benchmarking against industry peers and the previous period's foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals. Instill confidence in the organization's financial outlook.
+
+
+## Real-time business applications :
+
+- **Project objective:**
+
+   **1.** Create a Project priority matrix report.
+
+   **2.** Create a Scenario planning tool report.
+
+
+- **Purpose of reports:** To create a feasibility-impact matrix, empower businesses to monitor and evaluate their sales activity such as discount%, etc.
+
+- **Importance of these reports:** Helps to prioritize projects based on feasibility and impact, and monitor scenarios based on various parameters. 
+
+- **Role of reports:** Support decision-making based on the best case, worst case, and realistic case scenario.
+
+## Overall Insights:
+
+- **Customer Sales Performance:**  Notable growth in sales, especially in 2021 with a 304% increase.
+- **Top 10 Products:**  Continued strong performance of key products from 2020 to 2021.
+- **Market Performance vs. Target:**  Insights into market performance relative to sales goals.
+- **New Products in 2021:**  Successful introduction of new products with strong sales.
+- **Top 5 Countries in 2021:**  Identification of leading markets with robust sales figures.
+- **Top and Bottom 5 Products:**  Focus on both high-performing and underperforming products for strategic adjustments.
+- **Division Level Report:**  Impressive growth in the PC division, with substantial revenue increases.
+- **Profit and Loss Reports:**  Detailed assessment of financial health across various dimensions.
+- **Profit and Loss Reports by Markets:**  Insights into profitability across different regions, informing future strategies.
+- **Gross Margin % by Quarter:**  Understanding of regional performance changes, aiding in decision-making.
+   
+    
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports.
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report-building plan.
